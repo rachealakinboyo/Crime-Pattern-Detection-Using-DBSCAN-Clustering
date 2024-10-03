@@ -1,5 +1,5 @@
 
-# Crime Analysis Using DBSCAN Clustering
+# Crime Pattern Detection Using DBSCAN Clustering
 
 This project involves analyzing crime data from various boroughs in London, UK, using DBSCAN clustering to identify crime hotspots. The dataset used is sourced from the UK Police Data Portal.
 
@@ -14,7 +14,7 @@ This project involves analyzing crime data from various boroughs in London, UK, 
 
 ## Project Overview
 
-In this project, we explore crime data to identify spatial patterns and hotspots of crime using machine learning models. DBSCAN clustering is used to group similar crime locations based on their latitude and longitude. The analysis also includes exploratory data analysis (EDA) to visualize crime types, outcomes, and crime locations.
+In this project, we explore crime data to identify spatial patterns and hotspots of crime using a machine learning model. DBSCAN clustering is used to group similar crime locations based on their latitude and longitude. The analysis also includes exploratory data analysis (EDA) to visualize crime types, outcomes, and crime locations.
 
 ## Data Source
 
