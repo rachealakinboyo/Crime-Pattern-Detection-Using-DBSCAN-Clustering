@@ -10,7 +10,6 @@ This project involves analyzing crime data from various boroughs in London, UK, 
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Results](#results)
-- [License](#license)
 
 ## Project Overview
 
