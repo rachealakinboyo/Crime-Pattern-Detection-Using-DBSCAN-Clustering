@@ -8,7 +8,6 @@ This project involves analyzing crime data from various boroughs in London, UK, 
 - [Data Source](#data-source)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Results](#results)
 
 ## Project Overview
@@ -59,16 +58,6 @@ The dependencies include:
 
 4. **Model training**: The DBSCAN clustering model is trained and saved as a \`pkl\` file using the \`joblib\` library.
 
-## Project Structure
-
-\`\`\`
-.
-├── crime_analysis.ipynb       # Jupyter notebook containing the full analysis
-├── merged_data.csv            # The dataset (not included, must be downloaded)
-├── london_crime_detection_dbscan_model.pkl  # Saved model
-├── requirements.txt           # Required Python packages
-└── README.md                  # Project documentation
-\`\`\`
 
 ## Results
 
