@@ -46,7 +46,7 @@ The dependencies include:
 
 1. **Clone the repository**:
    \`\`\`bash
-   git clone https://github.com/your-username/crime-analysis-ML-project.git
+   git clone https://github.com/rachealakinboyo/Crime-Pattern-Detection-Using-DBSCAN-Clustering.git
    cd crime-analysis-ML-project
    \`\`\`
 
@@ -87,7 +87,3 @@ The high silhouette scores indicate that the DBSCAN model is effective at cluste
 
 ### Model Analysis:
 The DBSCAN clustering identifies consistent crime hotspots across both the training and test datasets. The model performs well, achieving high silhouette scores for both the training (\`0.9536\`) and test datasets (\`0.9002\`), indicating that the clusters are well-defined and consistent.
-
-## License
-
-This project is **proprietary** and may not be modified or distributed without explicit permission from the author. For inquiries about using or modifying the contents of this repository, please contact [your-email@example.com].
